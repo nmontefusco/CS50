@@ -14,3 +14,14 @@ Mario.C-  A program  that recreates a half-pyramid using hashes (#) for blocks. 
 Greedy.C-  A program that first asks the user for how much change is owed to them and
 then spits out the minimum number of coins with which said change can be made.
 
+
+
+
+Problem Set 2 Contents:
+
+Intials.C - A program that prompts the user for their name, and then outputs their intials in uppercase with no spaces, or periods.
+
+Caesar.C-  A program that encrypts a message using Caesar's cipher.
+
+Vigenere.C- A program that encrypts a message using Vigenere's cipher.
+
