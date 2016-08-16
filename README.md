@@ -17,6 +17,12 @@ then spits out the minimum number of coins with which said change can be made.
 
 
 
+
+
+
+
+
+
 Problem Set 2 Contents:
 
 Intials.C - A program that prompts the user for their name, and then outputs their intials in uppercase with no spaces, or periods.
